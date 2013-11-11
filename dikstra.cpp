@@ -83,6 +83,8 @@ int main()
 {
     // remember to insert edges both ways for an undirected graph
     cout<<"Iveskite matricos ilgi"<<endl;
+    //for
+    //oo
     adjacency_list_t adjacency_list(6);
     // 0 = a
     adjacency_list[0].push_back(neighbor(1, 7));

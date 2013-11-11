@@ -87,7 +87,7 @@ int main()
     //oo
     adjacency_list_t adjacency_list(6);
     // 0 = a
-    adjacency_list[0].push_back(neighbor(1, 8));
+    adjacency_list[0].push_back(neighbor(1, 7));
     adjacency_list[0].push_back(neighbor(2, 9));
     adjacency_list[0].push_back(neighbor(5, 14));
     // 1 = b
